@@ -4,7 +4,7 @@
 ### Kysymys 1
 select * from goal;
 
-![image](https://github.com/user-attachments/assets/0c3c22a3-44df-43eb-a25e-7232af04f1e8)
+![image](https://github.com/user-attachments/assets/54dad38d-cddc-4dd8-a722-6d312246d208)
 
 ### Kysymys 2
 select name, airport.type 
